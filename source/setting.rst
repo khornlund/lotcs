@@ -1,4 +1,4 @@
-Background
+Setting
 ==========
 
 .. toctree::
@@ -102,49 +102,3 @@ brought to justice, they're not locked up — they're put to work for the common
 
 *The friendliness that suffuses each town often stops at the edge ofthat community.
 The people of other towns aren't neighbors; they're competitors for resources.*
-
-Good Mead
----------
-
-.. image:: ../images/map-goodmead.jpg
-  :width: 1200
-  :alt: Good Mead
-
-*Dark gray skies hang over Icewind Dale. Good Mead is on
-the frozen shore of Redwaters. The settlement clings to a
-slope by the water's edge, its buildings hidden behind tall
-pines. A timber mead hall overlooks the lake, and thick
-woods to the west stretch away into the mist.
-Smoke rises from the chimneys, but the streets are
-mostly empty. Judging by the voices drifting from the hall, a
-town meeting could be in progress.*
-
-Hooks
------
-
-Here are some suggested hooks. Feel free to use these or come up with your own.
-
-Bounty Hunters
-~~~~~~~~~~~~~~
-*The murders have shocked Ten Towns, and its speakers have joined forces to place a bounty on the killer's head.
-Despite the worsening weather, sellswords have spread out over the dale.
-Either by chance or deduction, the characters are the first among them to head for Redwaters.
-A purse of 300 gp is on offer for bringing down the
-killer, or double that if he or she can be brought alive
-to stand trial in Bryn Shander.*
-
-Caravan Guards
-~~~~~~~~~~~~~~
-*Good Mead's speaker has ordered in extra supplies
-before the weather closes in. The party is hired to
-escort a wagonload of wicker hives to the beekeepers of Good Mead.
-With a killer on the loose, they're
-urged to remain especially vigilant.*
-
-Old Friends
-~~~~~~~~~~~
-*An old friend has retired to Good Mead: perhaps a
-mentor to one of the characters or a close relative.
-Word has come that this important person is in ill
-health and might not last the winter, so the characters
-have taken the opportunity to pay a final visit.*

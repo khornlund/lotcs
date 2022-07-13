@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Icewind Dale: King of the Wolves'
+project = 'Icewind Dale: Legacy of the Crystal Shard'
 copyright = '2022, Karl'
 author = 'Karl'
 
@@ -28,6 +28,7 @@ author = 'Karl'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autosectionlabel',
     'sphinx.ext.githubpages',
     'sphinxcontrib.fulltoc',
 ]

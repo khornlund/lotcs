@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Rules &#8212; Icewind Dale: King of the Wolves  documentation</title>
+    <title>Rules &#8212; Icewind Dale: Legacy of the Crystal Shard  documentation</title>
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/nameko.css" />
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
@@ -35,7 +35,7 @@
         <li class="right" >
           <a href="characters.html" title="Character Creation"
              accesskey="P">previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="index.html">Icewind Dale: King of the Wolves  documentation</a> &#187;</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Icewind Dale: Legacy of the Crystal Shard  documentation</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">Rules</a></li> 
       </ul>
     </div>  
@@ -49,6 +49,44 @@
 <h1>Rules<a class="headerlink" href="#rules" title="Permalink to this heading">¶</a></h1>
 <div class="toctree-wrapper compound">
 </div>
+<section id="crafting">
+<h2>Crafting<a class="headerlink" href="#crafting" title="Permalink to this heading">¶</a></h2>
+<p>You will receive crafting materials as loot, and be able to harvest materials from certain enemies.
+You can then craft these materials into items according to this
+<a class="reference external" href="https://drive.google.com/file/d/11tzfsTfjCR0rwIwN3wuvQyuZpl5K-0xq/view?usp=sharing">crafting guide</a>.
+It will seem intimidating because it’s a large document, but the rules are actually quite simple.
+We’ll ignore parts of it, and make some changes.</p>
+<p>What I like about this is:</p>
+<ul class="simple">
+<li><p>It’s a complete system that covers all the different kinds of crafting you might want to do,
+without being too complex.</p></li>
+<li><p>It’s a player-driven system, where you can set your own goals and work towards achieving them over
+a number of sessions.</p></li>
+<li><p>It lets you craft cool things out of monsters you kill.</p></li>
+<li><p>It makes tool proficiencies worthwhile.</p></li>
+</ul>
+<p>Things we’re going to change/ignore:</p>
+<ul class="simple">
+<li><p>Named magical items are unique, ie. the party cannot craft two of the same thing.
+This is to help with balance. <em>Ring of Water Walking</em> it would be an example of a named magical
+item. Crafting 2x <em>Longsword, +1</em> would be fine.</p></li>
+<li><p>Ignore <em>Gathering</em>, because I think this will be boring. Note this makes herbalism less useful.</p></li>
+<li><p>Ignore <em>Cooking</em>, because all the items are homebrew.</p></li>
+<li><p>Ignore <em>Custom Weapons</em>, because you can’t make them on dndbeyond.</p></li>
+<li><p>Ignore <em>Shelf Life</em> for alchemy, as long as you abide by the gentlemans’ agreement not to hoard
+potions.</p></li>
+<li><p>Ignore <em>Alchemy Modifiers</em> and <em>Additional Materials</em> for alchemy, because I think they’ll be a
+nightmare to keep track of.</p></li>
+<li><p>Ignore <em>Engineering</em>, because reasons.</p></li>
+<li><p>Ignore <em>Runecarving</em>, because it’s all homebrew. I could be convinced to change my mind about this
+if it was really thematic, eg. if someone wanted to play a Rune Knight.</p></li>
+<li><p>Ignore all the homebrew items (GS, DS, TAG). As a general rule if it doesn’t exist on dndbeyond
+you can’t craft it.</p></li>
+<li><p>Ignore <em>Making Essences</em>.</p></li>
+<li><p>I will probably say no to some items. Do not build your character around being able to craft a
+particular item.</p></li>
+</ul>
+</section>
 <section id="resting">
 <h2>Resting<a class="headerlink" href="#resting" title="Permalink to this heading">¶</a></h2>
 <p>Adventuring days will be pretty action-packed so we’ll go with rules-as-written.</p>
@@ -63,16 +101,46 @@
 </section>
 <section id="concentration">
 <h2>Concentration<a class="headerlink" href="#concentration" title="Permalink to this heading">¶</a></h2>
-<p>It’s really hard for me to keep track of everyone’s concentration, so I’d like there to be some penalty for players forgetting to keep track over their own. I’ll remind you if I remember, but if we both forget and I remember later I’ll have you roll at disadvantage.</p>
+<p>It’s really hard for me to keep track of everyone’s concentration, so I’d like there to be some
+penalty for players forgetting to keep track over their own. I’ll remind you if I remember, but if
+we both forget and I remember later I’ll have you roll at disadvantage.</p>
+</section>
+<section id="underwater">
+<h2>Underwater<a class="headerlink" href="#underwater" title="Permalink to this heading">¶</a></h2>
+<p>RAW:</p>
+<p><em>“When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural
+or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin,
+shortsword, spear, or trident.</em></p>
+<p><em>A ranged weapon attack automatically misses a target beyond the weapon’s normal range. Even against
+a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a
+net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).</em></p>
+<p><em>Creatures and objects that are fully immersed in water have resistance to fire damage.</em></p>
+<p><em>A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier
+(minimum of 30 seconds).</em></p>
+<p><em>When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its
+Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points
+and is dying, and it can’t regain hit points or be stabilized until it can breathe again.”</em></p>
+<p>My homebrew additions:</p>
+<ul class="simple">
+<li><p>Wearing armor has no effect on your ability to swim.</p></li>
+<li><p>Wearing a shield halves your swimming speed.</p></li>
+<li><p>If you take damage while holding your breath, you must succeed on a concentration check. If you
+fail you lose 1 minute of air.</p></li>
+<li><p>You lose 1 minute of air each time you have to open your mouth, eg. cast a spell that requires
+verbal components.</p></li>
+</ul>
 </section>
 <section id="spell-components">
 <h2>Spell Components<a class="headerlink" href="#spell-components" title="Permalink to this heading">¶</a></h2>
 <p>You can use a focus instead of any material components that don’t have cost requirements.</p>
-<p>If you plan on having equipment in each hand (eg. shield + weapon, dual wield), I strongly recommend you take the Warcaster feat so we don’t have to track whether you have a free hand for somatic components.</p>
+<p>If you plan on having equipment in each hand (eg. shield + weapon, dual wield), I strongly recommend
+you take the Warcaster feat so we don’t have to track whether you have a free hand for somatic
+components.</p>
 </section>
 <section id="disarming">
 <h2>Disarming<a class="headerlink" href="#disarming" title="Permalink to this heading">¶</a></h2>
-<p>Not allowed because whatever you can do to enemies, they can do to you. It will be sad when goblins throw your magic sword in the lake.</p>
+<p>Not allowed because whatever you can do to enemies, they can do to you. It will be sad when goblins
+throw your magic sword in the lake.</p>
 </section>
 <section id="ability-checks">
 <h2>Ability Checks<a class="headerlink" href="#ability-checks" title="Permalink to this heading">¶</a></h2>
@@ -111,7 +179,9 @@ you want to impersonate the captain of the guard and issue a command to the mili
 </section>
 <section id="percentile-dice-d100">
 <h3>Percentile Dice (d100)<a class="headerlink" href="#percentile-dice-d100" title="Permalink to this heading">¶</a></h3>
-<p>PHB p6: “You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from 0 to 9. One die (designated before you roll) gives the tens digit, and the other gives the ones digit. If you roll a 7 and a 1, for example, the number rolled is 71. <strong>Two Os represent 100.</strong>”</p>
+<p>PHB p6: “You generate a number between 1 and 100 by rolling two different ten-sided dice numbered
+from 0 to 9. One die (designated before you roll) gives the tens digit, and the other gives the ones
+digit. If you roll a 7 and a 1, for example, the number rolled is 71. <strong>Two Os represent 100.</strong>”</p>
 </section>
 </section>
 </section>
@@ -128,13 +198,15 @@ you want to impersonate the captain of the guard and issue a command to the mili
     <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="player.html">Player Responsibilities</a></li>
-<li class="toctree-l1"><a class="reference internal" href="background.html">Background</a></li>
+<li class="toctree-l1"><a class="reference internal" href="setting.html">Setting</a></li>
 <li class="toctree-l1"><a class="reference internal" href="characters.html">Character Creation</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Rules</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#crafting">Crafting</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#resting">Resting</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#administering-potions">Administering Potions</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#prone">Prone</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#concentration">Concentration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#underwater">Underwater</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#spell-components">Spell Components</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#disarming">Disarming</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#ability-checks">Ability Checks</a><ul>

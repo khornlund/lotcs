@@ -6,6 +6,6 @@ Icewind Dale: Legacy of the Crystal Shard
    :caption: Contents:
 
    player
-   background
+   setting
    characters
    rules
