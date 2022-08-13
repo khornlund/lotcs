@@ -49,7 +49,8 @@ Adventuring days will be pretty action-packed so we'll go with rules-as-written.
 
 Administering Potions
 ---------------------
-Using your action to administer a health potion to an unconscious creature requires going prone.
+Using your action to administer a health potion (or similar) to an unconscious creature requires
+going prone.
 
 Prone
 -----
