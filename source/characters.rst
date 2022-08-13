@@ -93,6 +93,13 @@ If you'd decided to play Wizardo the wizard first, it's unlikely the gem mine in
 the Sea of Moving Ice would jump out at you as something to incorporate into your backstory. If instead you
 soft-commit to something that interests you, you'll come up with better ideas!
 
+Character Chronicle
+-------------------
+To help you build a setting-inspired character, you'll use
+`these tables <https://drive.google.com/file/d/1sEtqhD7LeMVHIZdhRe04_REnnDF7_oSm/view?usp=sharing>`_
+to randomise some parts of your background. If you don't like what you roll, you can change it -
+it's just meant to be a starting point to inspire ideas of your own.
+
 Ability Scores
 --------------
 Once you have a rough idea for a backstory, you'll roll for stats (in order). You'll generate an
