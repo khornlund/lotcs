@@ -1,10 +1,24 @@
-Setting
-==========
+Campaign
+========
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+Overview
+--------
+The campaign will run from level 3-5 over ~16 sessions. The party will be part of a caravan headed
+to Bryn Shander - the largest town in Icewind Dale. There you'll encounter a number of story
+threads, and it will be up to you which threads you choose to follow. Your goal will be to help the
+people of Icewind Dale, so make a character motivated to do that.
+
+You might want to incorporate one of the following themes of the campaign into your character's
+background:
+
+- Reghed barbarians, who live a nomadic life in the tundra
+- Battlehammer Dwarves, in the Dwarven Valley
+- The Harpers, a network of do-good spies
+- The Arcane Brotherhood, a notorious company of wizards
 
 Icewind Dale
 ------------

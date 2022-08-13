@@ -5,8 +5,6 @@ Character Creation
    :maxdepth: 2
    :caption: Contents:
 
-TODO
-
 Golden Rules
 ------------
 1. Create a character that wants to be an adventurer.
@@ -101,7 +99,7 @@ Once you have a rough idea for a backstory, you'll roll for stats (in order). Yo
 array like ``STR 12, DEX 13, CON 12, WIS 16, INT 7, CHA 14``, and can then swap the position of any
 two stats.
 
-Each score is bounded to ``[7, 16]``, and the total will always be 74. This way everyone will get
+Each score is bounded to ``[7, 16]``, and the total will always be 75. This way everyone will get
 similar stats, and no one will be significantly stronger than anyone else.
 
 Playable Races
@@ -138,8 +136,8 @@ Let me know if there's something else you really want to play.
 Complexity
 ----------
 Play something with an appropriate level of complexity. If you play a spellcaster you'll need to
-spend some time learning what your spells do, and I'd recommend using a tablet to let you look
-things up quickly as dndbeyond on mobile is a bit clunky.
+spend some time learning what your spells do, and I'd strongly recommend using a tablet to let you
+look things up quickly as dndbeyond on mobile is a bit clunky.
 
 .. image:: ../images/dnd-classes.png
   :width: 1200
@@ -175,11 +173,15 @@ See the :ref:`Crafting` section for details.
 
 Innate Spellcasting
 -------------------
-Pre-TcoE if a racial ability or feat let you cast a spell once per long rest, RAW you don't count as knowing that spell and you cannot cast it with any spell slots you may have. Eg. Tiefling Infernal Legacy.
+Pre-TcoE if a racial ability or feat let you cast a spell once per long rest, RAW you don't count as
+knowing that spell and you cannot cast it with any spell slots you may have. Eg. Tiefling Infernal
+Legacy.
 
-Post-TcoE this changed, allowing you to also cast the spell using any spell slots you may have. Eg. Fey Touched feat.
+Post-TcoE this changed, allowing you to also cast the spell using any spell slots you may have.
+Eg. Fey Touched feat.
 
-I would like to interpret all of these abilities in the post-TcoE way, so if you play a Tiefling you may also cast hellish rebuke using any spell slots you have.
+I would like to interpret all of these abilities in the post-TcoE way, so if you play a Tiefling
+you may also cast hellish rebuke using any spell slots you have.
 
 Alignment
 ---------
