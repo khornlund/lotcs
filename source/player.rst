@@ -7,6 +7,10 @@ Player Responsibilities
    paint a bunch of stuff for me - there's only so much I can ask of him.
    Most of the work to be done isn't hard, just time-consuming. Hopefully since the sessions are
    infrequent, and we'll be doing it together, it shouldn't be too burdensome.
+
+   We'll probably run these during the day at Hugh's place on a weekend, so we have the benefit of
+   sunlight and Hugh has time to set up/pack down.
+
 2. Be responsive. We'll use discord, so install it on your phone and turn push notifications on. If I message you on a platform other than discord about D&D, this is a sign you are not being appropriately responsive.
    If you usually have push notifications turned off because you don't want to be spammed by the other servers you're in, it's quite easy to mute each of those servers.
 3. Follow the advice `here <https://www.reddit.com/r/dndnext/comments/veitej/how_to_make_your_dm_happy_in_6_relatively_easy/?sort=confidence>`_:
