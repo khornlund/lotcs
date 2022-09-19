@@ -43,6 +43,9 @@ Things we're going to change/ignore:
 - I will probably say no to some items. Do not build your character around being able to craft a
   particular item.
 
+You can purchase mundane or common rarity materials in any town. You can purchase uncommon materials
+in the large towns: Bryn Shander, Targos, Termalaine, and Easthaven.
+
 Resting
 -------
 Adventuring days will be pretty action-packed so we'll go with rules-as-written.
