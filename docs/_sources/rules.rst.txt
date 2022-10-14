@@ -48,7 +48,28 @@ in the large towns: Bryn Shander, Targos, Termalaine, and Easthaven.
 
 Resting
 -------
-Adventuring days will be pretty action-packed so we'll go with rules-as-written.
+Adventuring days will be pretty action-packed so we'll go with rules-as-written, except:
+if you long rest in a place exposed to the elements, eg. camping in the tundra, you do not remove a
+level of exhaustion.
+
+Exhaustion
+----------
+We'll use the exhaustion rules from the `One D&D Playtest <https://www.dndbeyond.com/one-dnd>`_ as below:
+
+.. image:: ../images/exhausted.png
+  :width: 400
+  :alt: Exhausted
+
+Overland Travel
+---------------
+Travelling through the tundra of Icewind Dale is unforgiving. For each day of overland travel
+you'll make a DC10 Saving Throw (Constitution), or gain a level of exhaustion.
+
+The distances between towns, and travel speeds are detailed below:
+
+.. image:: ../images/travel.jpg
+  :width: 1200
+  :alt: Travel
 
 Administering Potions
 ---------------------
